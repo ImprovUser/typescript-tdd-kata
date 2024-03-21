@@ -16,7 +16,7 @@ const filelink = require('filelink')
 import ReverseGeocode, { ILocation, IGeocode } from "bigdatacloud-reverse-geocoding";
 
 var path = require('path');
-import {ExifParserFactory} from "ts-exif-parser";
+import {ExifParserFactory} from 'ts-exif-parser';
 var fs = require('fs');
 const imageThumbnail = require('image-thumbnail');
 var mime = require('mime-types')

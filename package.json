@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/marcjmiller/typescript-tdd-kata#readme",
   "devDependencies": {
+    "@types/image-thumbnail": "^1.0.4",
     "@types/jest": "^24.9.1",
     "@types/node": "^12.12.47",
     "jest": "^26.0.1",
@@ -28,6 +29,7 @@
   },
   "dependencies": {
     "bigdatacloud-reverse-geocoding": "^0.2.0",
+    "dotenv": "^16.4.5",
     "filelink": "^4.1.2",
     "image-thumbnail": "^1.0.13",
     "jest-runner": "^27.3.1",

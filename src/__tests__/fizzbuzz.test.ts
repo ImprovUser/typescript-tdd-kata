@@ -1,4 +1,4 @@
-// import hello from "../hello";
+import hello from "../hello";
 
 describe('FizzBuzz tdd test', () => {
 
